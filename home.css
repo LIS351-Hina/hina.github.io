@@ -1,0 +1,14 @@
+@charset "UTF-8"; 
+
+body{
+  background-image: url("../photos/background.jpg"); 
+  margin: 4; 
+  padding: 4; 
+}
+
+h1 { 
+  color: #ABAFE3; 
+  text-align: center; 
+} 
+
+
