@@ -1,0 +1,32 @@
+body { 
+		background-image: url("photos/background.jpg");
+}
+#nav { 
+	text-align: center; 
+	margin: 0; 
+	padding: 0; 
+}
+#nav li { 
+	display:inline; 
+	border-right: 1px solid #2F6440; 
+}
+#nav li:last-child { 
+	border-right: none; 
+}
+#nav a { 
+	text-decoration: none; 
+	padding: 10px; 
+	color: #2F6440; 
+	font-weight: bold; 
+}
+h1 {
+	text-align: center;
+}
+dt, dd {
+	text-align: center; 
+}
+dt {
+	font-weight: bold;
+}
+
+
