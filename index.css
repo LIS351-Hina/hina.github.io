@@ -11,4 +11,33 @@ h1 {
   text-align: center; 
 } 
 
+#nav { 
+  text-align:center; 
+  margin: 0; 
+  padding: 0; 
+} 
+#nav li:last-child { 
+  border-right: none; 
+} 
+#nav a { 
+  text-decoration: none; 
+  padding: 10px; 
+  color: #2F6440; 
+  font-weight: bold; 
+} 
+#who { 
+  text-align: center; 
+  background-color: #EBC9BD; 
+  color: white; 
+} 
+img{ 
+  border-radius: 5%; 
+} 
+p{
+  overflow: auto; 
+  display: block; 
+  margin-left: auto;
+} 
+
+
 
